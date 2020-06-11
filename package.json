@@ -1,0 +1,26 @@
+{
+  "name": "shopify-carrier-service-demo",
+  "version": "1.0.0",
+  "description": "Demo of Shopify's Carrier Calculated Rates demo.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/math-ecen/shopify-carrier-service-demo.git"
+  },
+  "keywords": [
+    "ccs",
+    "shopify"
+  ],
+  "author": "Kevin Satur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/math-ecen/shopify-carrier-service-demo/issues"
+  },
+  "homepage": "https://github.com/math-ecen/shopify-carrier-service-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
