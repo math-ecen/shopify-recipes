@@ -13,7 +13,4 @@ X-Shopify-Access-Token: **your OAuth access token**
 ```
 
 
-Also ensure that your app appears in your Shipping rates and that the service is selected: **[Video demo](https://bit.ly/3dQJywI)**. 
-
-Then you'll see your rates at the checkout: 
-![](https://bit.ly/37hJT9p)
+Also ensure that your app appears in your Shipping rates and that the service is selected: **[Video demo](https://bit.ly/3dQJywI)**. Then you'll see your rates at the checkout: **[Screenshot](https://bit.ly/37hJT9p)**.
