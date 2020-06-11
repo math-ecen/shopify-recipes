@@ -4,7 +4,7 @@ const app = express();
 app.post('/shipping', function(req, res){
 	res.json({
 		"rates": [{
-			"service_name": "Kevin's awesome rate",
+			"service_name": "Kevin's awesome service",
 			"description": "Let's make it free",
 			"service_code": "kevin_rate",
 			"currency": "NZD",
