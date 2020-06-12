@@ -1,16 +1,5 @@
-To create the carrier service in a store, you will need to POST the following endpoint:
+## Shopify Recipes
 
-POST /admin/api/2020-04/carrier_services.json  
-X-Shopify-Access-Token: **your OAuth access token**   
-```	
-	{
-		"carrier_service": {
-			"name": "Kevin's Mail Service",
-			"callback_url": "https://3fb1cd249035.ngrok.io/shipping",
-			"service_discovery": true
-		}
-	}
-```
+Each subfolder has a demo of a theme or API aspect. Some may just have gist outlining a general principle and some pseudo code where as other's will have a demo that can be run and tested. 
 
-
-Also ensure that your app appears in your Shipping rates and that the service is selected: **[Video demo](https://bit.ly/3dQJywI)**. Then you'll see your rates at the checkout: **[Screenshot](https://bit.ly/37hJT9p)**.
+Issues welcome for demo requests. 
