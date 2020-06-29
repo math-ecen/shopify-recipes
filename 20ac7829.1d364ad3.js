@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{108:function(e){e.exports=JSON.parse('{"docsSidebars":{"someSidebar":[{"collapsed":true,"type":"category","label":"Shopify Tech Tips","items":[{"type":"link","label":"Intro","href":"/docs/"}]}]},"permalinkToSidebar":{"/docs/":"someSidebar"}}')}}]);
