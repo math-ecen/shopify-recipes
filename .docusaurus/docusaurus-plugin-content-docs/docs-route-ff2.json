@@ -1,0 +1,21 @@
+{
+  "docsSidebars": {
+    "someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Shopify Tech Tips",
+        "items": [
+          {
+            "type": "link",
+            "label": "Intro",
+            "href": "/docs/"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/docs/": "someSidebar"
+  }
+}

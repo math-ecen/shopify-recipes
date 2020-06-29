@@ -1,0 +1,20 @@
+{
+  "permalink": "/blog/welcome",
+  "editUrl": "https://github.com/math-ecen/shopify-recipes/edit/master/website/blog/blog/2020-06-29-welcome.md",
+  "source": "@site/blog/2020-06-29-welcome.md",
+  "description": "Welcome to Shopify Tech Tips!",
+  "date": "2020-06-29T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "shopify",
+      "permalink": "/blog/tags/shopify"
+    },
+    {
+      "label": "introductions",
+      "permalink": "/blog/tags/introductions"
+    }
+  ],
+  "title": "Welcome",
+  "readingTime": 0.025,
+  "truncated": false
+}

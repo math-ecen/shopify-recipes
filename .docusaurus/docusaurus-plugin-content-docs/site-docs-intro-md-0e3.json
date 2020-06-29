@@ -1,0 +1,11 @@
+{
+  "id": "intro",
+  "isDocsHomePage": true,
+  "title": "Welcome to Shopify Tech Tips",
+  "description": "You can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/intro.md",
+  "permalink": "/docs/",
+  "editUrl": "https://github.com/math-ecen/shopify-recipes/edit/master/website/docs/intro.md",
+  "sidebar_label": "Intro",
+  "sidebar": "someSidebar"
+}

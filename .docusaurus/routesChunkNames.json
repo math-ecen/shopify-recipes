@@ -1,0 +1,51 @@
+{
+  "/": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99"
+  },
+  "/__docusaurus/debug": {
+    "component": "component---theme-debugd-45-c28"
+  },
+  "/blog": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "items": [
+      {
+        "content": "content---blogf-49-957"
+      }
+    ],
+    "metadata": "metadata---blogbbb-5f9"
+  },
+  "/blog/tags": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "tags": "tags---blog-tags-8-be-13d"
+  },
+  "/blog/tags/introductions": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blogf-49-957"
+      }
+    ],
+    "metadata": "metadata---blog-tags-introductionsd-90-763"
+  },
+  "/blog/tags/shopify": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "items": [
+      {
+        "content": "content---blogf-49-957"
+      }
+    ],
+    "metadata": "metadata---blog-tags-shopify-1-cc-8a5"
+  },
+  "/blog/welcome": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "content": "content---blog-welcome-8-cf-bd7"
+  },
+  "/docs": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "docsMetadata": "docsMetadata---docs-20-a-426"
+  },
+  "/docs/": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-0-e-3-18c"
+  }
+}
