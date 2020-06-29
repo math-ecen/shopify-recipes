@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Shopify Tech Tips',
   tagline: 'Shopify Tech Tips',
-  url: 'https://shopifytech.tips',
+  url: 'https://math-ecen.github.io/shopify-recipes/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'math-ecen', // Usually your GitHub org/user name.
